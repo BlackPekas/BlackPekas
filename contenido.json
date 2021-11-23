@@ -1,7 +1,7 @@
 {
     "inmuebles":[{
         "casas":[{
-            "casa1": {
+            {
                 "direccion":"1",
                 "referencia":"1",
                 "imagenes":"imgs/casas/casa1/",
@@ -9,7 +9,7 @@
                 "descripcion":"SI"
             }}
             ,{
-            "casa2": {
+            {
                 "direccion":"2",
                 "referencia":"2",
                 "imagenes":"imgs/casas/casa1/",
