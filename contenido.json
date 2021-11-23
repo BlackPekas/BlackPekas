@@ -1,0 +1,87 @@
+{
+    "inmuebles":[{
+        "casas":[{
+            "casa1": {
+                "direccion":"1",
+                "referencia":"1",
+                "imagenes":"imgs/casas/casa1/",
+                "precio":"xxxxx",
+                "descripcion":"SI"
+            }}
+            ,{
+            "casa2": {
+                "direccion":"2",
+                "referencia":"2",
+                "imagenes":"imgs/casas/casa1/",
+                "precio":"xxxxx",
+                "descripcion":"SI"
+            }}]
+    }, {
+        "pisos":[{
+            "piso1": {
+                "direccion":"3",
+                "referencia":"3",
+                "imagenes":"imgs/casas/casa1/",
+                "precio":"xxxxx",
+                "descripcion":"SI"
+            }}
+            ,{
+            "piso2": {
+                "direccion":"4",
+                "referencia":"4",
+                "imagenes":"imgs/casas/casa1/",
+                "precio":"xxxxx",
+                "descripcion":"SI"
+            }}]
+    }, {
+        "locales":[{
+            "local1": {
+                "direccion":"5",
+                "referencia":"5",
+                "imagenes":"imgs/casas/casa1/",
+                "precio":"xxxxx",
+                "descripcion":"SI"
+            }}
+            ,{
+            "local2": {
+                "direccion":"6",
+                "referencia":"6",
+                "imagenes":"imgs/casas/casa1/",
+                "precio":"xxxxx",
+                "descripcion":"SI"
+            }}]
+    }, {
+        "garajes":[{
+            "garaje1": {
+                "direccion":"7",
+                "referencia":"7",
+                "imagenes":"imgs/casas/casa1/",
+                "precio":"xxxxx",
+                "descripcion":"SI"
+            }}
+            ,{
+            "garaje2": {
+                "direccion":"8",
+                "referencia":"8",
+                "imagenes":"imgs/casas/casa1/",
+                "precio":"xxxxx",
+                "descripcion":"SI"
+            }}]
+    }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+]
+
+}
