@@ -1,21 +1,21 @@
 {
     "inmuebles":[{
-        "casas":[{
+        "casas":[
             {
                 "direccion":"1",
                 "referencia":"1",
                 "imagenes":"imgs/casas/casa1/",
                 "precio":"xxxxx",
                 "descripcion":"SI"
-            }}
-            ,{
+            }
+            ,
             {
                 "direccion":"2",
                 "referencia":"2",
                 "imagenes":"imgs/casas/casa1/",
                 "precio":"xxxxx",
                 "descripcion":"SI"
-            }}]
+            }]
     }, {
         "pisos":[{
             "piso1": {
