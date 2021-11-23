@@ -5,14 +5,14 @@
                 "direccion":"Casa en calle de Juan Martorell, 10",
                 "referencia":"V5110",
                 "imagenes":"imgs/casas/casa0/",
-                "precio":"1.500.000€",
+                "precio":"1.500.000€"
             }
             ,
             {
                 "direccion":"Casa en valencia, el orriols",
                 "referencia":"V5112",
                 "imagenes":"imgs/casas/casa1/",
-                "precio":"249.000€",
+                "precio":"249.000€"
             }]
     }, {
         "pisos":[
