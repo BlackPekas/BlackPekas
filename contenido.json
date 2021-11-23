@@ -17,56 +17,56 @@
                 "descripcion":"SI"
             }]
     }, {
-        "pisos":[{
-            "piso1": {
+        "pisos":[
+            {
                 "direccion":"3",
                 "referencia":"3",
                 "imagenes":"imgs/casas/casa1/",
                 "precio":"xxxxx",
                 "descripcion":"SI"
-            }}
-            ,{
-            "piso2": {
+            }
+            ,
+            {
                 "direccion":"4",
                 "referencia":"4",
                 "imagenes":"imgs/casas/casa1/",
                 "precio":"xxxxx",
                 "descripcion":"SI"
-            }}]
+            }]
     }, {
-        "locales":[{
-            "local1": {
+        "locales":[
+            {
                 "direccion":"5",
                 "referencia":"5",
                 "imagenes":"imgs/casas/casa1/",
                 "precio":"xxxxx",
                 "descripcion":"SI"
-            }}
-            ,{
-            "local2": {
+            }
+            ,
+            {
                 "direccion":"6",
                 "referencia":"6",
                 "imagenes":"imgs/casas/casa1/",
                 "precio":"xxxxx",
                 "descripcion":"SI"
-            }}]
+            }]
     }, {
-        "garajes":[{
-            "garaje1": {
+        "garajes":[
+            { 
                 "direccion":"7",
                 "referencia":"7",
                 "imagenes":"imgs/casas/casa1/",
                 "precio":"xxxxx",
                 "descripcion":"SI"
-            }}
-            ,{
-            "garaje2": {
+            }
+            ,
+            {
                 "direccion":"8",
                 "referencia":"8",
                 "imagenes":"imgs/casas/casa1/",
                 "precio":"xxxxx",
                 "descripcion":"SI"
-            }}]
+            }]
     }
 
 
