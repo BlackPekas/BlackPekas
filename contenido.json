@@ -51,35 +51,18 @@
     }, {
         "garajes":[
             { 
-                "direccion":"7",
-                "referencia":"7",
-                "imagenes":"imgs/casas/casa1/",
-                "precio":"xxxxx",
-                "descripcion":"SI"
+                "direccion":"Avenida Cortes Valencianas 35",
+                "referencia":"P543",
+                "imagenes":"imgs/garajes/garaje0/",
+                "precio":"16.000€"
             }
             ,
             {
-                "direccion":"8",
-                "referencia":"8",
-                "imagenes":"imgs/casas/casa1/",
-                "precio":"xxxxx",
-                "descripcion":"SI"
+                "direccion":"Avenida músico maestro rodrigo 19",
+                "referencia":"P544",
+                "imagenes":"imgs/garajes/garaje1/",
+                "precio":"19.000€"
             }]
     }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ]
-
 }
