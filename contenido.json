@@ -4,13 +4,13 @@
 					"direccion": "Casa en calle de Juan Martorell, 10",
 					"referencia": "V5110",
 					"imagenes": "imgs/casas/casa0/",
-					"precio": "1.500.000€"
+					"precio": "1.500.000"
 				},
 				{
 					"direccion": "Casa en valencia, el orriols",
 					"referencia": "V5112",
 					"imagenes": "imgs/casas/casa1/",
-					"precio": "249.000€"
+					"precio": "249.000"
 				}
 			]
 
@@ -20,13 +20,13 @@
 					"direccion": "Calle Asturias, Camí Fondo",
 					"referencia": "P543",
 					"imagenes": "imgs/pisos/piso0/",
-					"precio": "158.000€"
+					"precio": "158.000"
 				},
 				{
 					"direccion": "Calle Calle Perfecto, En corts",
 					"referencia": "P544",
 					"imagenes": "imgs/pisos/piso1/",
-					"precio": "108.500€"
+					"precio": "108.500"
 				}
 			]
 		},
@@ -35,13 +35,13 @@
 					"direccion": "Calle Juan Ramón Jiménez",
 					"referencia": "L543",
 					"imagenes": "imgs/locales/local0/",
-					"precio": "150.000€"
+					"precio": "150.000"
 				},
 				{
 					"direccion": "Calle Escultor Jo´se Capuz",
 					"referencia": "L544",
 					"imagenes": "imgs/locales/local1/",
-					"precio": "52.000€"
+					"precio": "52.000"
 				}
 			]
 		},
@@ -50,13 +50,13 @@
 					"direccion": "Avenida Cortes Valencianas 35",
 					"referencia": "P543",
 					"imagenes": "imgs/garajes/garaje0/",
-					"precio": "16.000€"
+					"precio": "16.000"
 				},
 				{
 					"direccion": "Avenida músico maestro rodrigo 19",
 					"referencia": "P544",
 					"imagenes": "imgs/garajes/garaje1/",
-					"precio": "19.000€"
+					"precio": "19.000"
 				}
 			]
 		}
