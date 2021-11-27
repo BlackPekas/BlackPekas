@@ -1,14 +1,16 @@
 {
 	"inmuebles": [{
 			"casas": [{
-					"direccion": "Casa en calle de Juan Martorell, 10",
+					"direccion": "Casa en Juan Martorell, 10",
 					"referencia": "V5110",
+					"m2":"300m2",
 					"imagenes": "imgs/casas/casa0/",
 					"precio": "500.000"
 				},
 				{
 					"direccion": "Casa en valencia, el orriols",
 					"referencia": "V5112",
+					"m2":"456m2",
 					"imagenes": "imgs/casas/casa1/",
 					"precio": "249.000"
 				}
@@ -17,14 +19,16 @@
 		},
 		{
 			"pisos": [{
-					"direccion": "Calle Asturias, Camí Fondo",
+					"direccion": "Piso Calle Asturias",
 					"referencia": "P543",
+					"m2":"50m2",
 					"imagenes": "imgs/pisos/piso0/",
 					"precio": "158.000"
 				},
 				{
-					"direccion": "Calle Calle Perfecto, En corts",
+					"direccion": "Piso Calle Perfecto, En corts",
 					"referencia": "P544",
+					"m2":"45m2",
 					"imagenes": "imgs/pisos/piso1/",
 					"precio": "108.500"
 				}
@@ -32,14 +36,16 @@
 		},
 		{
 			"locales": [{
-					"direccion": "Calle Juan Ramón Jiménez",
+					"direccion": "Local Calle Juan Ramón Jiménez",
 					"referencia": "L543",
+					"m2":"120m2",
 					"imagenes": "imgs/locales/local0/",
 					"precio": "150.000"
 				},
 				{
-					"direccion": "Calle Escultor Jo´se Capuz",
+					"direccion": "Local Calle Escultor Jo´se Capuz",
 					"referencia": "L544",
+					"m2":"100m2",
 					"imagenes": "imgs/locales/local1/",
 					"precio": "52.000"
 				}
@@ -47,14 +53,16 @@
 		},
 		{
 			"garajes": [{
-					"direccion": "Avenida Cortes Valencianas 35",
+					"direccion": "Garaje Avenida Cortes Valencianas 35",
 					"referencia": "P543",
+					"m2":"20m2",
 					"imagenes": "imgs/garajes/garaje0/",
 					"precio": "16.000"
 				},
 				{
-					"direccion": "Avenida músico maestro rodrigo 19",
+					"direccion": "Garaje Avenida músico maestro rodrigo 19",
 					"referencia": "P544",
+					"m2":"15m2",
 					"imagenes": "imgs/garajes/garaje1/",
 					"precio": "19.000"
 				}
